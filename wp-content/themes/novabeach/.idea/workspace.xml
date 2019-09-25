@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de83439c-8c6b-487f-83bc-c0c8ccc6748f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/novabeach.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Bold.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Boldd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Demibold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Demibold.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Demibold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Demibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Demibold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Demiboldd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Medium.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Medium.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Mediumd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Regular.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielDomaineDisplay-Regulard41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Black.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Black.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Black.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Blackd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Book.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Book.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Book.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/iCielGotham-Bookd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/arrow-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/arrow-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/banner-qc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-form-dk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-lh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-ptda.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-ss4-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-ss4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-ss5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-unit-excutive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg-uu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bg_no.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/clock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon-phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon-volume-off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon-volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo-normal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo-scroll.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/map-res.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mat-bang-tong-the.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tb-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/text-novaland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/time-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/zoomIn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/zoomOut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/cac-loai-bat-dong-san-detail2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/cac-loai-bat-dong-san2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/common2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/doi-tac-van-hanh2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/full-page2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/function2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/gioi-thieu-du-an2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/index2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.panzoom.min2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/lien-he2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/single2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/thu-vien2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/tien-ich2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/tin-tuc2513.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-foot.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section4-4-4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section4-4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section4-5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section4-6.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/part/main-section6.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1RAjURIFuFXNjW9RnlKydY894cr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/part" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de83439c-8c6b-487f-83bc-c0c8ccc6748f" name="Default Changelist" comment="" />
+      <created>1569116809864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569116809864</updated>
+      <workItem from="1569116811100" duration="5739000" />
+      <workItem from="1569128456217" duration="1932000" />
+      <workItem from="1569149563238" duration="668000" />
+      <workItem from="1569167546380" duration="354000" />
+      <workItem from="1569240409516" duration="4811000" />
+      <workItem from="1569335092175" duration="304000" />
+      <workItem from="1569417775126" duration="1487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
