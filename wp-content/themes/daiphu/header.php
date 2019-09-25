@@ -13,14 +13,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.9.9">
-    <link rel="stylesheet" href="<?php printf(get_bloginfo('url')."/wp-content/themes/novabeach/assets/css/main.css") ?>">
+    <link rel="stylesheet" href="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/css/main.css") ?>">
 
 </head>
 <body>
 <header>
     <div class="logo">
-        <img src="wp-content/themes/novabeach/assets/images/logo-normal.svg" alt="" class="img-responsive logo-normal">
-        <img src="wp-content/themes/novabeach/assets/images/logo-scroll.svg" alt="" class="img-responsive logo-scroll">
+        <img src="wp-content/themes/daiphu/assets/images/logo-normal.svg" alt="" class="img-responsive logo-normal">
+        <img src="wp-content/themes/daiphu/assets/images/logo-scroll.svg" alt="" class="img-responsive logo-scroll">
     </div>
     <div class="menu-primary menu-mobile">
         <ul class="snip-list">
@@ -31,8 +31,37 @@
             <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a title="Liên hệ" href="lien-he/index.html">Liên hệ</a></li>
         </ul>
         <a href="tel:090 369 48 88" class="icon-phone">
-            <img src="wp-content/themes/novabeach/assets/images/icon-phone.png" alt="">
+            <img src="wp-content/themes/daiphu/assets/images/icon-phone.png" alt="">
             093 9332 881
         </a>
+    </div>
+    <div class="hamburger">
+        <div class="menu menu--close4">
+            <div class="menu__icon">
+                <div class="menu__line menu__line--1"></div>
+                <div class="menu__line menu__line--2"></div>
+                <div class="menu__line menu__line--3"></div>
+            </div>
+        </div>
+    </div>
+    <div class="social-line">
+        <ul>
+            <li>
+                <a href="https://www.facebook.com/diaocdaiphuland/" target="_blank">
+                    <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/fb.png")?>" alt="" class="img-responsive">
+                </a>
+            </li>
+            <li>
+                <a href="tel:090 369 48 88">
+                    <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/phone.png")?>" alt="" class="img-responsive">
+                </a>
+
+            </li>
+            <li>
+                <a href="mailto:datlongkhanh68@gmail.com">
+                    <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/mail.png")?>" alt="" class="img-responsive">
+                </a>
+            </li>
+        </ul>
     </div>
 </header>
