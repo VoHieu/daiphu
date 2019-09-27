@@ -19,19 +19,19 @@
 <body>
 <header>
     <div class="logo">
-        <img src="wp-content/themes/daiphu/assets/images/logo-normal.svg" alt="" class="img-responsive logo-normal">
-        <img src="wp-content/themes/daiphu/assets/images/logo-scroll.svg" alt="" class="img-responsive logo-scroll">
+        <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/logo-normal.svg")?>" alt="" class="img-responsive logo-normal">
+        <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/logo-scroll.svg")?>" alt="" class="img-responsive logo-scroll">
     </div>
     <div class="menu-primary menu-mobile">
         <ul class="snip-list">
-            <li id="menu-item-255" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-255"><a title="Trang chủ" href="index.html" aria-current="page">Trang chủ</a></li>
+            <li id="menu-item-255" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-255"><a title="Trang chủ" href="<?php printf(get_bloginfo('url')) ?>" aria-current="page">Trang chủ</a></li>
             <li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a title="Dự án" href="du-an/index.html">Dự án</a></li>
             <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a title="Phong thủy" href="phong-thuy/index.html">Phong thủy</a></li>
             <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Tin tức" href="tin-tuc/index.html">Tin tức</a></li>
             <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a title="Liên hệ" href="lien-he/index.html">Liên hệ</a></li>
         </ul>
         <a href="tel:090 369 48 88" class="icon-phone">
-            <img src="wp-content/themes/daiphu/assets/images/icon-phone.png" alt="">
+            <img src="<?php printf(get_bloginfo('url')."wp-content/themes/daiphu/assets/images/icon-phone.png")?>" alt="">
             093 9332 881
         </a>
     </div>

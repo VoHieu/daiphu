@@ -1,5 +1,5 @@
 <div class="section background-style" id="section4"
-     style="background-image: url(https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/images/bg-ss5.png)">
+     style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/bg-ss5.png)")?>">
     <div class="wrap-content-common">
         <div class="content-section4">
             <div class="title">
@@ -13,7 +13,7 @@
                 <div class="row slick-section4">
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(https://novabeachcamranh.com.vn/wp-content/uploads/2019/04/beachclub.jpg">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/beachclub.jpg")?>">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
@@ -22,7 +22,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(https://novabeachcamranh.com.vn/wp-content/uploads/2019/04/hbtb.jpg">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/hbtb.jpg")?>"">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
@@ -31,7 +31,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(https://novabeachcamranh.com.vn/wp-content/uploads/2019/04/cqtc.jpg">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/cqtc.jpg")?>">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
@@ -40,7 +40,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(https://novabeachcamranh.com.vn/wp-content/uploads/2019/04/yoga.jpg">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/yoga.jpg")?>">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>

@@ -1,5 +1,5 @@
 <div class="section background-style" id="section3"
-     style="background-image: url(https://novabeachcamranh.com.vn/wp-content/themes/daiphu/assets/images/bg-ss4.png)">
+     style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/bg-ss4.png)")?>">
     <div class="wrap-content-common">
         <div class="content-section3">
             <div class="container-max">

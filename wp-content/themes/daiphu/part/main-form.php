@@ -1,8 +1,8 @@
 <div id="popup-nhan-thong-tin" class="active">
     <div class="wrap-popup">
-        <img src="wp-content/themes/novabeach/assets/images/bg-form-dk.png" alt="" class="bg-popup img-responsive">
+        <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/bg-form-dk.png")?>" alt="" class="bg-popup img-responsive">
         <div class="icon-close">
-            <img src="wp-content/themes/novabeach/assets/images/close.png" alt="" class="img-responsive">
+            <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/close.png")?>" alt="" class="img-responsive">
         </div>
         <div class="title">
             <p>Đăng ký</p>
@@ -56,10 +56,6 @@
                         <input type="radio" id="shop-house" value="Shop Houses" name="typebds" />
                         <label for="shop-house">Shop Houses (Nhà phố)</label>
                     </div>
-                    <!-- <div class="item">
-                        <input type="radio" id="apartments" value="Apartments" name="typebds" />
-                        <label for="apartments">Apartments</label>
-                    </div> -->
                 </div>
             </div>
 

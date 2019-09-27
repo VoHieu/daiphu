@@ -3,7 +3,7 @@
         <div class="wrap-content-common">
             <div class="item">
                 <div class="load-vitri-img">
-                    <img src="https://novabeachcamranh.com.vn/wp-content/uploads/2019/04/banner.jpg" alt=""
+                    <img src="<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/banner.jpg")?>" alt=""
                          class="img-responsive img-vi-tri-load">
                 </div>
                 <div class="content-section2">
@@ -23,7 +23,7 @@
 
     </div>
     <div class="gr-arrow">
-        <img src="https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/images/arrow-left.png" alt="" class="img-responsive btn-arrow">
-        <img src="https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/images/arrow-right.png" alt="" class="img-responsive btn-arrow">
+        <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/arrow-left.png")?>" alt="" class="img-responsive btn-arrow">
+        <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/arrow-right.png")?>" alt="" class="img-responsive btn-arrow">
     </div>
 </div>

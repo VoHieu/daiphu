@@ -1,11 +1,11 @@
 <div class="section background-style" id="section4-6"
-     style="background-image: url(https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/images/bg-ss4-6.jpg)">
+     style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/bg-ss4-6.jpg)")?>">
     <div class="wrap-content-common">
         <div class="content-section4">
             <div class="container">
                 <div class="row">
                     <div class="col-md-7">
-                        <img src="https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/images/map-res.jpg" alt="" class="img-responsive">
+                        <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/map-res.jpg")?>" alt="" class="img-responsive">
                     </div>
                     <div class="col-md-5">
                         <div class="title">
