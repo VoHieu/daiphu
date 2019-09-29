@@ -8,13 +8,13 @@
                 </div>
                 <div class="content-section2">
                     <div class="title">
-                        <p style="text-align: left;">Xuất hiện kiệt tác</p>
-                        <p style="text-align: right;">giữa lòng</p>
-                        <p style="text-align: left;">Cam Ranh vịnh ngọc</p>
+                        <p style="text-align: left;">Lộc Phát GARDEN </p>
+                        <p style="text-align: left; font-size:38px">Long Khánh Đồng Nai</p>
                     </div>
                     <div class="content-text">
                         <p>
-                            Sở hữu vẻ đẹp thuần khiết của Bãi Dài, NovaBeach Cam Ranh Resort & Villas – Kiệt tác nghỉ dưỡng cao cấp giữ trọn vẹn vẻ bình yên vốn có của Vịnh ngọc Cam Ranh.
+                            Dự án Lộc Phát Garden Long Khánh Đồng Nai được xem là một trong những dự án được chú ý nhất trong năm 2019.
+                            Lộc Phát Garden Long Khánh Đồng Nai là khu dân cư cao cấp với nhiều tiện ích thuận tiện cho mọi thành phần cư dân cư sinh sống.
                         </p>
                     </div>
                 </div>

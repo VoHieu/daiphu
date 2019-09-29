@@ -4,7 +4,7 @@
         <div class="content-section4">
             <div class="title">
                 <p>
-                    <b>Điểm đến đẳng cấp</b><br> <span>đánh thức mọi giác quan</span>
+                    <b>Tiện ích</b></span>
                 </p>
             </div>
         </div>
@@ -17,7 +17,8 @@
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
-                                Beach club                                                </p>
+                                Chợ Bình Lộc
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -26,7 +27,8 @@
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
-                                Hồ bơi tràn bờ                                                </p>
+                                Trường học
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -35,7 +37,8 @@
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
-                                Cảnh quan tiện ích                                                </p>
+                                Bệnh viện đa khoa
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -44,7 +47,28 @@
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
-                                Khu tập Yoga                                                </p>
+                                KCN Long Khánh
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="item background-style"
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/yoga.jpg")?>">
+                            <img src="https://via.placeholder.com/366x322" alt=""
+                                 class="img-responsive opacity">
+                            <p>
+                                Quốc lộ 1A
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="item background-style"
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/yoga.jpg")?>">
+                            <img src="https://via.placeholder.com/366x322" alt=""
+                                 class="img-responsive opacity">
+                            <p>
+                                Chợ Long Khánh
+                            </p>
                         </div>
                     </div>
 

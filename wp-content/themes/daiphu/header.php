@@ -25,13 +25,13 @@
     <div class="menu-primary menu-mobile">
         <ul class="snip-list">
             <li id="menu-item-255" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-255"><a title="Trang chủ" href="<?php printf(get_bloginfo('url')) ?>" aria-current="page">Trang chủ</a></li>
-            <li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a title="Dự án" href="du-an/index.html">Dự án</a></li>
-            <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a title="Phong thủy" href="phong-thuy/index.html">Phong thủy</a></li>
-            <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Tin tức" href="tin-tuc/index.html">Tin tức</a></li>
-            <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a title="Liên hệ" href="lien-he/index.html">Liên hệ</a></li>
+            <li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a title="Dự án" href="<?php printf(get_bloginfo('url')."/du-an/index.php")?>">Dự án</a></li>
+            <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a title="Phong thủy" href="<?php printf(get_bloginfo('url')."/phong-thuy")?>">Phong thủy</a></li>
+            <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Tin tức" href="<?php printf(get_bloginfo('url')."/tin-tuc")?>">Tin tức</a></li>
+            <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a title="Liên hệ" href="<?php printf(get_bloginfo('url')."/lien-he")?>">Liên hệ</a></li>
         </ul>
-        <a href="tel:090 369 48 88" class="icon-phone">
-            <img src="<?php printf(get_bloginfo('url')."wp-content/themes/daiphu/assets/images/icon-phone.png")?>" alt="">
+        <a href="tel:0939332881" class="icon-phone">
+            <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/icon-phone.png")?>" alt="">
             093 9332 881
         </a>
     </div>
@@ -52,7 +52,7 @@
                 </a>
             </li>
             <li>
-                <a href="tel:090 369 48 88">
+                <a href="tel:0939332881">
                     <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/phone.png")?>" alt="" class="img-responsive">
                 </a>
 
@@ -65,3 +65,4 @@
         </ul>
     </div>
 </header>
+<?php get_template_part('part/main','form') ?>

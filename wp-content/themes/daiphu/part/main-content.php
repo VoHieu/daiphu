@@ -1,4 +1,3 @@
-<?php get_template_part('part/main','form') ?>
 <main>
     <div id="mod-index">
         <div id="fullpage">

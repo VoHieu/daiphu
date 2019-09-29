@@ -6747,7 +6747,6 @@ h3.common-title {
 .btn_zoom {
   position: absolute;
   z-index: 10;
-  right: 0;
   bottom: 0;
   display: flex; }
   .btn_zoom .zoom {
@@ -11871,5 +11870,9 @@ footer {
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat; }
+
+.pagination a{
+  color:#207B;
+}
 
 /*# sourceMappingURL=main.css.map */

@@ -1,12 +1,7 @@
 <?php
 define ('THEME_URL', get_stylesheet_directory());
 
-add_theme_support('post-formats',
-    array(
-        'image',
-        'link',
-        'gallery'
-    ));
+add_theme_support('post-thumbnails');
 
 //CSS
 function get_css_theme(){
@@ -14,3 +9,5 @@ function get_css_theme(){
 
 }
 add_action('wp_enqueue_scripts','get_css_theme');
+
+

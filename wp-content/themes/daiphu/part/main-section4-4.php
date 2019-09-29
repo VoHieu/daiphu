@@ -36,11 +36,7 @@
                 <b>90% - 10%</b>
             </div>
         </div>
-        <div class="btn-viewmore js-show-sales-policy">
-            <a href="">
-                Xem thêm
-            </a>
-        </div>
+
     </div>
     <div class="gr-arrow">
         <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/arrow-left.png")?>" alt="" class="img-responsive btn-arrow">

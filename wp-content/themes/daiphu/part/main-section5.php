@@ -3,10 +3,7 @@
         <div class="content-section5">
             <div class="title">
                 <p>
-                    Nét quý tộc
-                </p>
-                <p>
-                    của chất liệu văn hóa Tây Ban Nha trong thiết kế
+                    Hình ảnh thực tế của dự án
                 </p>
             </div>
             <div class="gallery">

@@ -15,18 +15,18 @@
 <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js'></script>
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.js"></script>
 <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js?ver=5.2.3'></script>
-<script type='text/javascript' src='https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/js/full-page.js?ver=5.2.3'></script>
+<script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/full-page.js")?>'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var wp_vars = {"ajaxurl":"https:\/\/novabeachcamranh.com.vn\/wp-admin\/admin-ajax.php","homeurl":"https:\/\/novabeachcamranh.com.vn","themeurl":"https:\/\/novabeachcamranh.com.vn\/wp-content\/themes\/novabeach"};
     /* ]]> */
 </script>
-<script type='text/javascript' src='https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/js/common.js?ver=5.2.3'></script>
-<script type='text/javascript' src='https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/js/function.js?ver=5.2.3'></script>
-<script type='text/javascript' src='https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/js/jquery.panzoom.min.js?ver=5.2.3'></script>
-<script type='text/javascript' src='https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/js/single.js?ver=5.2.3'></script>
-<script type='text/javascript' src='https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/js/cac-loai-bat-dong-san-detail.js?ver=5.2.3'></script>
-<script type='text/javascript' src='https://novabeachcamranh.com.vn/wp-content/themes/novabeach/assets/js/index.js?ver=5.2.3'></script>
+<script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/common.js")?>'></script>
+<script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/function.js")?>'></script>
+<script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/jquery.panzoom.min.js")?>'></script>
+<script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/single.js")?>'></script>
+<script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/cac-loai-bat-dong-san-detail.js")?>'></script>
+<script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/index.js")?>'></script>
 
 </body>
 
