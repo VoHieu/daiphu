@@ -36,6 +36,7 @@
                         <?php endwhile; ?>
                         <!-- end of the loop -->
                     <?php endif; ?>
+
                 </div>
             </div>
         </div>

@@ -10,4 +10,11 @@ function get_css_theme(){
 }
 add_action('wp_enqueue_scripts','get_css_theme');
 
-
+function mod_contact7_form_title( $template ) {
+    $template->set_title( 'Contact us now' );
+  return $template;
+}
+add_filter(
+    'wpcf7_contact_form_default_pack',
+    'mod_contact7_form_title'
+);

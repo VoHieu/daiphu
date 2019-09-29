@@ -14,7 +14,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.9.9">
     <link rel="stylesheet" href="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/css/main.css") ?>">
-
 </head>
 <body>
 <header>
@@ -25,7 +24,7 @@
     <div class="menu-primary menu-mobile">
         <ul class="snip-list">
             <li id="menu-item-255" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-255"><a title="Trang chủ" href="<?php printf(get_bloginfo('url')) ?>" aria-current="page">Trang chủ</a></li>
-            <li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a title="Dự án" href="<?php printf(get_bloginfo('url')."/du-an/index.php")?>">Dự án</a></li>
+            <li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a title="Dự án" href="<?php printf(get_bloginfo('url')."/du-an")?>">Dự án</a></li>
             <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a title="Phong thủy" href="<?php printf(get_bloginfo('url')."/phong-thuy")?>">Phong thủy</a></li>
             <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Tin tức" href="<?php printf(get_bloginfo('url')."/tin-tuc")?>">Tin tức</a></li>
             <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a title="Liên hệ" href="<?php printf(get_bloginfo('url')."/lien-he")?>">Liên hệ</a></li>
