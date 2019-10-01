@@ -11875,4 +11875,13 @@ footer {
   color:#207B;
 }
 
+.wpcf7-list-item-label{
+  font-family: iCielDomaineDisplay-Regular;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  letter-spacing: 0px;
+  text-align: center;
+  margin: 0px;
+}
+
 /*# sourceMappingURL=main.css.map */

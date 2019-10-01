@@ -64,4 +64,4 @@
         </ul>
     </div>
 </header>
-<?php get_template_part('part/main','form') ?>
+<?php get_template_part('part/main','formc') ?>

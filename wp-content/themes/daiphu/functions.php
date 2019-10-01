@@ -1,5 +1,5 @@
 <?php
-define ('THEME_URL', get_stylesheet_directory());
+//define ('THEME_URL', get_stylesheet_directory());
 
 add_theme_support('post-thumbnails');
 
@@ -10,11 +10,5 @@ function get_css_theme(){
 }
 add_action('wp_enqueue_scripts','get_css_theme');
 
-function mod_contact7_form_title( $template ) {
-    $template->set_title( 'Contact us now' );
-  return $template;
-}
-add_filter(
-    'wpcf7_contact_form_default_pack',
-    'mod_contact7_form_title'
-);
+add_filter( 'wpcf7_load_js', '__return_false' );
+//add_filter( 'wpcf7_load_css', '__return_false' );
