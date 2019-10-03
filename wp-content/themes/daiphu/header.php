@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.9.9">
     <link rel="stylesheet" href="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/css/main.css") ?>">
+    
 </head>
 <body>
 <header>

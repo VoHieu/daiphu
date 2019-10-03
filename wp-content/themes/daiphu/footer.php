@@ -21,7 +21,7 @@
                     </p>
                 </div>
                 <div class="btn-given-info">
-                    <a href="#">
+                    <a href="">
                         Nhận thông tin ngay
                     </a>
                 </div><script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
@@ -76,6 +76,7 @@
 <script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/single.js")?>'></script>
 <script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/cac-loai-bat-dong-san-detail.js")?>'></script>
 <script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/thu-vien.js")?>'></script>
+<script type="text/javascript" src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/ctf.js")?>'></script>
 
 </body>
 </html>

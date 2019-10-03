@@ -27,6 +27,7 @@
 <script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/single.js")?>'></script>
 <script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/cac-loai-bat-dong-san-detail.js")?>'></script>
 <script type='text/javascript' src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/index.js")?>'></script>
+<script type="text/javascript" src='<?php printf(get_site_url()."/wp-content/themes/daiphu/assets/js/ctf.js")?>'></script>
 
 </body>
 
