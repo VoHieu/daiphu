@@ -10,7 +10,7 @@
                 <div class="gr-text">
                     <p class="slogan">Sóng Vàng Cơ Hội  &#8211; Vượt Trội Đầu Tư</p>
                     <p class="intro">
-                        Tổ hợp căn hộ nghỉ dưỡng NovaBeach (Condotel)
+
                     </p>
                 </div>
             </div>

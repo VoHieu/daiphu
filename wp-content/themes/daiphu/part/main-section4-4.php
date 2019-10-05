@@ -20,20 +20,20 @@
 
     <div class="content-ss4-4">
         <div class="title">
-            <p>Giải Pháp Đầu Tư Đảm Bảo Sinh Lời</p>
+            <p>Cơ sở hạ tầng khá chỉnh chu</p>
         </div>
         <div class="text">
             <div class="item-text">
-                <p>Sinh lời từ dòng vốn đầu tiên</p>
-                <b>8%/năm</b>
+                <p>Bao gồm: Điện, nước, cáp quang đều âm, cống thoát nước, công viên, trường học… theo một quy chuẩn chỉnh với trang đô thị Thành Phố cao cấp</p>
+
             </div>
             <div class="item-text">
-                <p>Cam kết lợi nhuận 3 năm đầu, mỗi năm</p>
-                <b>1 tỷ đồng</b>
+                <p>Đường đi nội bộ rộng 7 mét vuông diện tích vỉa hè cây xanh rộng lớn</p>
+
             </div>
             <div class="item-text">
-                <p>Từ năm thứ 4, chia sẻ lợi nhuận bền vững</p>
-                <b>90% - 10%</b>
+                <p>Được thiết kế vô cùng sang trọn</p>
+
             </div>
         </div>
 

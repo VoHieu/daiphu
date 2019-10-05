@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-left">
-                <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/logo-scroll.svg")?>" alt="" class="img-responsive">
+                <img style="width:50%" src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/datlongkhanh-logo-trans.png")?>" alt="" class="img-responsive">
             </div>
             <div class="col-middle">
                 <p>
@@ -65,7 +65,7 @@
 <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js?ver=5.2.3'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
-    var wp_vars = {"ajaxurl":"https:\/\/novabeachcamranh.com.vn\/wp-admin\/admin-ajax.php","homeurl":"https:\/\/novabeachcamranh.com.vn","themeurl":"https:\/\/novabeachcamranh.com.vn\/wp-content\/themes\/novabeach"};
+    var wp_vars = {"ajaxurl":"https:\/\/datlongkhanh.net\/wp-admin\/admin-ajax.php","homeurl":"https:\/\/datlongkhanh.net","themeurl":"https:\/\/datlongkhanh.net\/wp-content\/themes\/daiphu"};
     /* ]]> */
 </script>
 

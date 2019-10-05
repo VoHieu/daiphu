@@ -14,8 +14,6 @@
 
             <?php get_template_part('part/main','section4-5')?>
 
-            <?php get_template_part('part/main','section4-6')?>
-
             <?php get_template_part('part/main','section6')?>
         </div>
 

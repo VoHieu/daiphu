@@ -22,15 +22,16 @@
                 <div class="gr-hours-share">
                     <div class="hours">
                         <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/time-left.png")?>" alt="" class="img-responsive">
-                        <span><?php the_time('d/m/Y') ?></span>
+                        <span><?php the_time('d/m/Y')?></span>
                     </div>
                 </div>
                 <div class="text">
                     <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-                        <?php the_content(); ?>
+                        <?php echo get_the_content(); ?>
                     <?php endwhile; ?>
                     <?php endif; ?>
                 </div>
+
             </div>
         </div>
     </div>

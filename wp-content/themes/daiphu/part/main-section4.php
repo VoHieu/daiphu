@@ -13,7 +13,7 @@
                 <div class="row slick-section4">
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/beachclub.jpg")?>">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/cho-binh-loc.jpg")?>">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
@@ -23,7 +23,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/hbtb.jpg")?>"">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/truong-hoc.png")?>">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
@@ -33,7 +33,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/cqtc.jpg")?>">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/benh-vien.jpg")?>">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
@@ -43,7 +43,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/yoga.jpg")?>">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/kcn.jpeg")?>">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
@@ -53,17 +53,17 @@
                     </div>
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/yoga.jpg")?>">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/ben-xe.jpg")?>">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>
-                                Quốc lộ 1A
+                                Bên xe Long Khánh
                             </p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="item background-style"
-                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/uploads/2019/04/yoga.jpg")?>">
+                             style="background-image: url(<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/cho-long-khanh.jpg")?>">
                             <img src="https://via.placeholder.com/366x322" alt=""
                                  class="img-responsive opacity">
                             <p>

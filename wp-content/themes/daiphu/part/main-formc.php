@@ -8,10 +8,8 @@
             <p>Đăng ký</p>
             <p>Nhận Thông Tin Dự Án</p>
         </div>
-        <?php
-        echo do_shortcode(
-            '[contact-form-7 id="68" title=”Contact us now"]'
-        );
+        <?php add_form_contact();
+        wp_reset_query();
         ?>
     </div>
 </div>

@@ -19,8 +19,8 @@
 <body>
 <header>
     <div class="logo">
-        <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/logo-normal.svg")?>" alt="" class="img-responsive logo-normal">
-        <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/logo-scroll.svg")?>" alt="" class="img-responsive logo-scroll">
+        <img src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/datlongkhanh-logo.png")?>" alt="" class="img-responsive logo-normal">
+        <img style="top:10px;" src="<?php printf(get_bloginfo('url')."/wp-content/themes/daiphu/assets/images/datlongkhanh-logo-trans.png")?>" alt="" class="img-responsive logo-scroll">
     </div>
     <div class="menu-primary menu-mobile">
         <ul class="snip-list">
